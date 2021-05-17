@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hugo Caminada
 - 👀 I’m interested in web- & app development, Music & Formula 1
-- 🌱 I’m currently learning  React, React-Native, Vue, Typescript & Python 
+- 🌱 I’m currently using React, React-Native, Vue, Typescript & Python 
 - 📫 Reach me at hugoschmidt@me.com
 
 <!---
